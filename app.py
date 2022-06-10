@@ -295,7 +295,7 @@ if __name__ == '__main__':
 
 	st.sidebar.markdown('[![Muhammad Hamza Adnan]\
                     (https://img.shields.io/badge/Author-@hamzaxd11-gray.svg?colorA=gray&colorB=dodgerblue&logo=github)]\
-                    (https://github.com/hamzaxd11/movie-rec/)')
+                    (https://github.com/hamzaxd11/movie-rec-fyp/)')
 
 
 	reco_types = ['Home','Personalized Recommendations', 'Find Similar Movies', 'Taste Match']
